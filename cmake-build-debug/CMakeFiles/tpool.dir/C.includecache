@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jake/CLionProjects/mandy_tpool/main.c
+stdio.h
+-
+pthread.h
+-
+stdint.h
+-
+thpool.h
+/home/jake/CLionProjects/mandy_tpool/thpool.h
+
+/home/jake/CLionProjects/mandy_tpool/thpool.c
+unistd.h
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+errno.h
+-
+time.h
+-
+sys/prctl.h
+-
+thpool.h
+/home/jake/CLionProjects/mandy_tpool/thpool.h
+sched.h
+-
+
+/home/jake/CLionProjects/mandy_tpool/thpool.h
+

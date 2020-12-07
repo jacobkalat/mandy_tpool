@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/tpool.dir/main.c.o CMakeFiles/tpool.dir/thpool.c.o -o tpool  -lpthread 

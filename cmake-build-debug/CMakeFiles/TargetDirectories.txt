@@ -1,0 +1,3 @@
+/home/jake/CLionProjects/mandy_tpool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jake/CLionProjects/mandy_tpool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jake/CLionProjects/mandy_tpool/cmake-build-debug/CMakeFiles/tpool.dir
